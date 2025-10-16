@@ -1,0 +1,24 @@
+﻿* text=auto eol=lf
+*.cs           text eol=lf
+*.meta         text eol=lf
+*.unity        text eol=lf
+*.prefab       text eol=lf
+*.shader       text eol=lf
+*.shadergraph  text eol=lf
+*.hlsl         text eol=lf
+*.cginc        text eol=lf
+*.json         text eol=lf
+*.txt          text eol=lf
+*.md           text eol=lf
+*.yml          text eol=lf
+*.yaml         text eol=lf
+*.bat          text eol=crlf
+*.cmd          text eol=crlf
+*.png   -text
+*.jpg   -text
+*.jpeg  -text
+*.zip   -text
+*.7z    -text
+*.mp4   -text
+*.mov   -text
+*.ttf   -text
